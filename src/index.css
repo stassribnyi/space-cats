@@ -11,7 +11,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 
   background: linear-gradient(rgba(0, 0, 0, 0.5), #333),
-    #e8e8e8 url('/background.jpg') center center / cover no-repeat fixed;
+    #e8e8e8 url('./images/background.jpg') center center / cover no-repeat fixed;
 }
 
 code {
