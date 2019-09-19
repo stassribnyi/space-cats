@@ -1,3 +1,9 @@
+# Space Cats website
+
+> The project made in case of [Udemy course](https://www.udemy.com/complete-react-developer-zero-to-mastery).
+
+[Here it is!](https://stassribnyi.github.io/space-cats/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
